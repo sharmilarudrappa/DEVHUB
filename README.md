@@ -16,6 +16,6 @@ alt="IMAGE ALT TEXT HERE" width="240px" height="180px" border="10" /></a>
  
  <h2><i> DashBoard </i></h2><br/>
  <p align='center'>
-     <img src="client/dash.png"/>
+     <img src="https://raw.githubusercontent.com/Priya2410/DevHub/master/client/dash.png"/>
      <br/>
  </p>
